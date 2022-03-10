@@ -6,4 +6,4 @@ the java library. Each sample contains a README file with details how to run it 
 ## Security contact
 
 Please disclose any security-related issues or vulnerabilities by emailing [security@swagger.io](mailto:security@swagger.io), instead of using the public issue tracker.
-#hjjkk
+#hjjkkjj
